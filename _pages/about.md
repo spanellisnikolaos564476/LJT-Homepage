@@ -19,7 +19,7 @@ I am Junteng Liu, a first-year PhD candidate in the HKUST NLP Group, supervised 
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 – Present), The Also HKUST, HKUST NLP Group — supervised by Prof. Junxian He.
+- **Ph.D. in Computer Science** (2024 – Present), HKUST, HKUST NLP Group — supervised by Prof. Junxian He.
 - **B.Eng.** (2020 – 2024), Shanghai Jiao Tong University (SJTU) — graduated in June 2024.
 
 ## Honors and Awards
